@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "webpack": "^2.4.1"
+    "webpack": "^2.4.1",
+    "webpack-manifest-plugin": "^1.1.0"
   }
 }
